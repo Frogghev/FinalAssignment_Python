@@ -102,8 +102,4 @@ Combined **three years of startup funding data (2019–2021)** to explore invest
 
 I'm a junior data analyst building hands-on experience with Python and real-world datasets. This project reflects my growing skills in **data cleaning, exploratory analysis, and storytelling with data**.
 
-📫 Feel free to connect with me on [LinkedIn](#) or check out more of my projects on [GitHub](#)!
-
----
-
-⭐ If you found this project interesting, consider giving it a star!
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/giovanni-de-santis-092621322/?locale=it-IT) or check out more of my projects on GitHub!
